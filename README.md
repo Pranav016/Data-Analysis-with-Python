@@ -13,16 +13,16 @@ Seaborn <br/>
 # Environment Setup and Local Installation:
 1. Drop a :star: on the Github Repository.
 
-1. Download Python IDE
+1. Download Python IDE <br/>
 	[Install Anaconda for Windows](https://docs.anaconda.com/anaconda/install/windows/) <br/>
 	[Install Anaconda for MacOS](https://docs.anaconda.com/anaconda/install/mac-os/) <br/>
 	[Install Anaconda for Linux](https://docs.anaconda.com/anaconda/install/linux/) <br/>
 
 1. Clone the Repo by going to your local Git Client and pushing this command: <br/>
-	git clone https://github.com/Pranav016/Exploratory-data-analysis-of-Google-app-store-dataset.git
+	```git clone https://github.com/Pranav016/Exploratory-data-analysis-of-Google-app-store-dataset.git```
 
-1. Go to the AnacondaPrompt and use command to install the packages: <br/>
-	pip install -r requirements.txt
+1. Go to the AnacondaPrompt and use this command to install the packages: <br/>
+	```pip install -r requirements.txt```
 
 1. Open the project in the Jupyter Notebook to use it.
 
